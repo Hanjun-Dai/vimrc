@@ -1,10 +1,10 @@
-arapat's vimrc
+Hanjun's vimrc
 ============
-Author: Tsung-Hsiang (Sean) Chang <vgod@vgod.tw>
+Author: Arapat Jurat (arapat) <arapat@arap.at> 
 
-Revised by Arapat Jurat (arapat) <araapt@arap.at>
+Revised by Hanjun Dai <daihanjun@gmail.com>
 
-Fork me on GITHUB  https://github.com/arapat/vimrc.
+Fork me on GITHUB  https://github.com/Hanjun-Dai/vimrc.
 
 ONE-STEP INSTALL
 ----------------
